@@ -1,0 +1,26 @@
+/* MAIN PAGE */
+body {
+    background-image: url(https://marketplace.canva.com/EAFHm4JWsu8/1/0/1600w/canva-pink-landscape-desktop-wallpaper-HGxdJA_xIx0.jpg);
+    text-align: center;
+}   
+.h1 {
+    background-color: bisque;
+    color: firebrick;
+    text-align: center;
+}
+.gif {
+    text-align: center;
+    margin: 0%;
+}
+#bread {
+    font-size: 200%;
+    color: rgb(2, 95, 4);
+    background-color: rgb(103, 155, 200);
+}
+#gin {
+    font-size: 200%;
+    color: aliceblue;
+    background-color: rgb(217, 125, 125);
+}
+
+/* MAIN PAGE */
