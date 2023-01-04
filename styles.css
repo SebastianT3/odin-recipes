@@ -2,11 +2,13 @@
 body {
     background-image: url(https://marketplace.canva.com/EAFHm4JWsu8/1/0/1600w/canva-pink-landscape-desktop-wallpaper-HGxdJA_xIx0.jpg);
     text-align: center;
+    margin: 30px;
 }   
 .h1 {
     background-color: bisque;
     color: firebrick;
     text-align: center;
+    margin: 5px;
 }
 .gif {
     text-align: center;
@@ -16,11 +18,13 @@ body {
     font-size: 200%;
     color: rgb(2, 95, 4);
     background-color: rgb(103, 155, 200);
+    margin: 20px;
 }
 #gin {
     font-size: 200%;
     color: aliceblue;
     background-color: rgb(217, 125, 125);
+    margin: 20px;
 }
 
 /* MAIN PAGE */
